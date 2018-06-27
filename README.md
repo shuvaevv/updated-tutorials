@@ -1,5 +1,6 @@
-### Updated Kevin Markham`s tutorials
+# Updated Kevin Markham`s tutorials
 [Kevin Markham`s](https://github.com/justmarkham) Jupyter notebooks from the scikit-learn video series (updated as of 2018)
+
 
 ## Table of Contents
 
